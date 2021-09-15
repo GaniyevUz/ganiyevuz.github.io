@@ -4,7 +4,7 @@ Happy Bday Di...
 
 - **Watch demo here**
 
-[Click here for demo](https://magneto261290.github.io/happy-birthday-di)
+[Click here for demo](https://ganiyevuz.github.io)
 
 # How to host it for free?
 
